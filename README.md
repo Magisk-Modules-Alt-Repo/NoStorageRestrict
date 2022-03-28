@@ -1,4 +1,4 @@
-# NoStorageRestric
+# NoStorageRestrict
 
 ![](https://i.imgur.com/Z7VH0Li.jpg)
 
