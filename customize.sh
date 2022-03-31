@@ -14,6 +14,7 @@ fi
  
 rm -rf "$MODPATH"/R
 rm -rf "$MODPATH"/S
+rm -rf "$MODPATH"/S2
 
 REPLACE="
 /system/priv-app/ExternalStorageProvider
