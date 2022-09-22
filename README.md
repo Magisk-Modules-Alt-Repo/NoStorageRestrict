@@ -8,6 +8,8 @@ Removes the restriction when selecting folders (Downloads/Android) through the f
 - Magisk 20.x
 - Android 11 or higher
 
+### v4.0
+- Rewriten all APKs to use a cleaner and more stable method (this should fix any crashes caused by earlier versions)
 ### v3.0
 - Add Android 13 support
 - Add Fox Module Manager support
