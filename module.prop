@@ -1,6 +1,6 @@
 id=NoStorageRestrict
 name=NoStorageRestrict
 version=v4
-versionCode=4
+versionCode=5
 author=DanGLES3
 description=Disables the restriction of not being able to select certain folders (like downloads/sdcard) when prompted by apps
