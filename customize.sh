@@ -29,7 +29,7 @@ elif [[ "$CODENAME" == "30" ]]; then
 fi
  
 rm -rf "$MODPATH"/R
-rm -rf "$MODPATH"/S
+rm -rf "$MODPATH"/S2
 rm -rf "$MODPATH"/S2
 rm -rf "$MODPATH"/T
 
