@@ -4,6 +4,10 @@
 
 Removes the restriction when selecting folders (Downloads/Android) through the file manager on Android 11 and higher
 
+# Disclaimer
+
+Due to the nature of the Magisk version (replacing APKs) it may not work and result in crashes for some users, in those cases the Xposed version is more recommended.
+
 # Requirements
 - Magisk 20.x
 - Android 11 or higher
