@@ -8,6 +8,9 @@ Removes the restriction when selecting folders (Downloads/Android) through the f
 
 Due to the nature of the Magisk version (replacing APKs) it may not work and result in crashes for some users, in those cases the Xposed version is more recommended.
 
+For the Xposed version look here:
+[NoStorageRestrict-Xposed](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict)
+
 # Requirements
 - Magisk 20.x
 - Android 11 or higher
@@ -20,5 +23,4 @@ Due to the nature of the Magisk version (replacing APKs) it may not work and res
 ### v2.0
 - Try to fix crash on A12L (be sure to test and report as soon as possible)
 
-For the Xposed version look here:
-[NoStorageRestrict-Xposed](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict)
+
